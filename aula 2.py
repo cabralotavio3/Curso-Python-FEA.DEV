@@ -37,4 +37,4 @@ fatorial = 1
 while i < numero:
     fatorial *= numero-i
     i+=1
-print(f"O seu fatorial é {numero * fatorial}")
+print(f"O seu fatorial é {numero * fatorial}") 
